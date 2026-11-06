@@ -1,0 +1,14 @@
+# This repository publishes static information only.
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+*token*.json
+.state/
+.venv*/
+__pycache__/
+node_modules/
+config.json
+*.sqlite*
+*.db
